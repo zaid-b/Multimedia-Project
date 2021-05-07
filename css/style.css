@@ -1,0 +1,9 @@
+.melina{
+border:none;
+  background-color: transparent;
+border-radius: 50px 20px;
+}
+
+.melina:hover{
+  background-color: #1F618D;
+}
